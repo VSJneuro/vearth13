@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vaishali Satpute Janve @vearth13
+- 👋 Hi, I’m Vaishali Satpute Janve @VSJneuro
 - 👀 I’m interested in solving neuroscience problems
 - 🌱 I’m currently learning data/business analytics.
-- 💞️ I’m looking to collaborate on projects that automate complex data analysis for neuroscience.
+- 💞️ I’m looking to collaborate on projects that automate complex data analysis.
 - 📫 Reach me via LinkedIn https://www.linkedin.com/in/vaishali-satpute-janve/.
 
 <!---
